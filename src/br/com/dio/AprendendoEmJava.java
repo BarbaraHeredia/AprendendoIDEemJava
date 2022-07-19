@@ -7,8 +7,7 @@ public class AprendendoEmJava {
 	public static void main(String[] args) {
 		
 		/*int a = 7;
-		int b = 10;
-		
+		int b = 10;		
 		System.out.println("Hello Word!!" + (a+b)); */
 		
 		Gato gato = new Gato(null, null, null);
